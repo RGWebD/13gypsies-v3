@@ -1,0 +1,7 @@
+raw/
+sheets/
+qa/*.png
+qa/*.jpg
+research/*.html
+research/*.png
+__pycache__/

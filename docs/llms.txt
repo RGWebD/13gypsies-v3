@@ -1,0 +1,15 @@
+# 13 Gypsies
+
+> Intimate Spanish tapas restaurant in Riverside, Jacksonville, Florida, open since 2008. Seven tables, twenty seats, a scratch kitchen (bread kneaded by hand daily; house-made sausage, cheese, cured meats, pickles, spice blends and pasta) in a 1923 Spanish-style building designed by Henrietta Dozier.
+
+- Address: 887 Stockton St, Jacksonville, FL 32204 (Stockton St at College St, off I-10)
+- Phone: (904) 389-0330 (reservations by phone during service hours or OpenTable; not by email or voicemail)
+- Reservations: https://www.opentable.com/r/13-gypsies-jacksonville
+- Hours: Tue-Thu 5-9 PM; Fri-Sat 5-10 PM; Sun-Mon closed. Last seating 90 minutes before close.
+- Chef: Kevan Kimball. Founder: Chef Howard Kirk.
+- Policies: casual dress; BYO wine $15 corkage; street parking; wheelchair accessible; private buyouts at an all-inclusive flat rate (call).
+- Recognition: Diners, Drive-Ins and Dives ("Globetrottin'", 2010); Folio Weekly Best of Jax 2015 Best Tapas; OpenTable 4.9 (691 reviews); Google 4.5 (462 reviews).
+
+## Pages
+- [Home](https://rgwebd.github.io/13gypsies-v3/): story, the room, private dining, reservations, hours and policies
+- [Menu](https://rgwebd.github.io/13gypsies-v3/menu.html): tapas menu (names and descriptions; menu changes often)
